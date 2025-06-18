@@ -1,7 +1,7 @@
 // Mobile Menu Toggle
 const mobileMenuBtn = document.querySelector('.mobile-menu');
 const navLinks = document.querySelector('.nav-links');
-const port = process.env.PORT || 4000 
+const port = process.env.PORT || 5000 
 const express = require('express')
 const app = express()
 
