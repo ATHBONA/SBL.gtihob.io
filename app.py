@@ -23,16 +23,16 @@ APPS = [
     },
     {
         "id": 2,
-        "title": "Music Player Deluxe",
-        "developer": "Audio Masters",
-        "description": "Premium music player with equalizer and playlist management features.",
-        "category": "music",
+        "title": "Mathcad 15",
+        "developer": "Mathcad",
+        "description": "More than just a calculator or math engine, Mathcad is an interactive digital notebook that lets you write equations in standard math notation, apply units, visualize data, and annotate your work—all in one professionally formatted document.",
+        "category": "software",
         "rating": 4.6,
-        "size": "32 MB",
+        "size": "228.02 MB",
         "featured": True,
-        "image": "/static/img/apps/csicol.jpg",
+        "image": "/static/img/apps/Mathcad 15.jpg",
         "badge": "POPULAR",
-        "download_url": "https://example.com/downloads/music-player-deluxe.apk"
+        "download_url": "https://www.mediafire.com/file/mz5asd0wmoh5epd/Mathcad+15.rar/file"
     },
     {
         "id": 3,
