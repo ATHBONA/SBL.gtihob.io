@@ -36,15 +36,15 @@ APPS = [
     },
     {
         "id": 3,
-        "title": "Photo Editor Pro",
-        "developer": "Creative Tools",
-        "description": "Advanced photo editing tools with filters and effects.",
-        "category": "tools",
+        "title": "SketchUp 2024",
+        "developer": "SketchUp",
+        "description": "SketchUp 2024, a powerful feature that adds depth and realism to your models. By simulating how light interacts with objects and edges, ambient occlusion helps you create lifelike designs with minimal effort.",
+        "category": "software",
         "rating": 4.7,
-        "size": "45 MB",
+        "size": "1.1 GB",
         "featured": False,
-        "image": "/static/img/apps/csicol.jpg",
-        "download_url": "https://example.com/downloads/photo-editor-pro.apk"
+        "image": "/static/img/apps/SketchUp 2024.jpg",
+        "download_url": "https://drive.usercontent.google.com/download?id=1FHMfJpiwJP9uFxJgU2_qR9lOK2e9nUHD&export=download&authuser=0"
     }
 ]
 
